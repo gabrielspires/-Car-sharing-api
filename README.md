@@ -42,8 +42,7 @@ tests/
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/carsharing-api.git
-    cd carsharing-api
+    git clone [https://github.com/yourusername/carsharing-api.git](https://github.com/gabrielspires/-Car-sharing-api.git)
     ```
 
 2. Install dependencies:
